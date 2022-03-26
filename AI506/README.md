@@ -1,4 +1,4 @@
-# [AI506] Data Mining and Searcj
+# [AI506] Data Mining and Search
 
 Prof. Kijung Shin
 
