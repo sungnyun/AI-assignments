@@ -1,0 +1,3 @@
+[submodule "AI506/co-authorship-prediction"]
+	path = AI506/co-authorship-prediction
+	url = https://github/com/sungnyuun/co-authorship-prediction
